@@ -1,0 +1,360 @@
+commit 6979068d453607eebc4c8fa0bf2c2ae4c615b59a
+Author: I forgot to configure my name <XXX@my.ntu.ac.uk>
+Date:   Fri Mar 1 14:20:53 2024 +0000
+
+    renamed function isValidIndicator to isValidField
+
+commit e855fa198ed32c3c001967e7fd10f874073ef73e
+Author: I forgot to configure my name <XXX@my.ntu.ac.uk>
+Date:   Fri Mar 1 14:15:38 2024 +0000
+
+    refactored white spaces check and added comments
+
+commit 9e240d41461211fa2c2ff554f5b97a1148d04746
+Author: I forgot to configure my name <XXX@my.ntu.ac.uk>
+Date:   Fri Mar 1 13:56:23 2024 +0000
+
+    added git logs
+
+commit 375b4db59166e2873293d191bd4c7fc66b06317d
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Fri Mar 1 07:47:19 2024 +0000
+
+    Added comments highlighting AI assistance within the code
+
+commit 1477906725fe086e426a5ce92a378524db8dccad
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Fri Mar 1 07:15:04 2024 +0000
+
+    replaced raw field indices in isValidIndicator with named constants
+
+commit 7f6067f308f1d476a5d4bee7e949cbe8bc81c48b
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Fri Mar 1 06:21:57 2024 +0000
+
+    added assertion to function dataEntryToWaypoint to check precondition hasExpectedNumberOfFields
+
+commit 9c1de95f2d31d02ad55841fbad425e16bbc65d7f
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Fri Mar 1 06:20:11 2024 +0000
+
+    added assertion to function dataEntryToWaypoint to check precondition isRecognisedCode
+
+commit 73a598dc3042eaa102c5374f0dd1e722a2f29969
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Fri Mar 1 06:18:10 2024 +0000
+
+    added assertion to function hasExpectedNumberOfFields to check precondition isRecognisedCode
+
+commit 1d99672a2774e6daa589db1dbe0dce09a5a96e79
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Fri Mar 1 06:00:14 2024 +0000
+
+    added assertion to function parseDataEntry to check precondition
+    hasFormOfNandDataEntry
+
+commit 752f66ee2c90d9d2da7b560f060202328e590247
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Fri Mar 1 05:56:10 2024 +0000
+
+    added assertion to function verifyChecksum to check precondition hasFormOfNandDataEntry
+
+commit 8223850034015ef5e285f106694e8d7bb090c52e
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Fri Mar 1 05:33:26 2024 +0000
+
+    replaced data entry field indices with the named constants defined in
+    struct fieldIndices
+
+commit c49eafc1c5a75e6e40159d7dd37cf5b6de07932f
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Fri Mar 1 05:08:33 2024 +0000
+
+    Introduced Struct fieldIndices to store indices of data entry fields as
+    named constants
+
+commit 347694d0d1b5b2f2dfcd637c075711ba265aa2fd
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Fri Mar 1 04:37:44 2024 +0000
+
+    Used name constants to represent symbols such as ~(start_symbol)
+
+commit 5c7922d38db0c1147163b7a0dc635aa842dfd4df
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Fri Mar 1 03:44:45 2024 +0000
+
+    replaced magic number with more named program constants
+
+commit 36a9c047188092c76a8c591f81c3e642a3718de3
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Fri Mar 1 02:09:03 2024 +0000
+
+    refactored function calculateChecksum to use structs validCharacters
+    method isValidCharacter
+
+commit b6ae0b3d15380878c330e34dac7f71068b91dc3b
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Fri Mar 1 01:34:42 2024 +0000
+
+    Used better variable names for struct validCharaters and function
+    isValidCharacter
+
+commit 508808133fb636214877885cc69bc49186bb6176
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Fri Mar 1 01:06:06 2024 +0000
+
+    introduced a struct to store valid charaters and refactored function
+    hasValidCharacters to use the method isValidCharacter of the struct
+
+commit 908f84745d39649811dd02ad6cef6e16e77a732d
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Fri Mar 1 00:38:34 2024 +0000
+
+    Refactored function hasInvalidCharacters to use standard library funciton isalpha and isdigit rather than using ascii value representation
+
+commit 51f23e0efe0c44e86fd64adda7baae6f340a200e
+Author: Shuaib Ahmed-Danfulani <T0401193@my.ntu.ac.uk>
+Date:   Thu Feb 29 23:45:57 2024 +0000
+
+    changed some vairables into global constants.
+
+commit 79e7307199ed7923022f89b448165237b791f719
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Thu Feb 29 04:51:00 2024 +0000
+
+    Removed redundant codes and cout debugging aids
+
+commit c64ef5d429f63a8150fabb02670131816aa1a781
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Thu Feb 29 04:47:36 2024 +0000
+
+    Removed redundant comment in dataEntryToWaypoint data
+
+commit f864487200c25f5a5857facb4a60613474ed7a57
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Thu Feb 29 04:33:48 2024 +0000
+
+    Implemented processDataLog and a helper function isValidIndicator and all test cases pass
+
+commit 9fc16d3cb1e0416e62d5f9a0fe424566629d8a06
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Thu Feb 29 00:15:35 2024 +0000
+
+    Removed redundant edge case checking in parseDMS
+
+commit 82d73439532d5e15df21d964a4605686f52aace4
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Thu Feb 29 00:13:00 2024 +0000
+
+    Improved funciton hasFormNandData to run checks systematically
+
+commit f2327e81374ca798b6c3b6a4aba1545cc60decf6
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Mon Feb 26 20:36:05 2024 +0000
+
+    Improved funciton calculateCheckSum to use std::isalnum to verify if the dataEntry character is alphanumeric
+
+commit 5d6bc49184b2e91e77fb3d77b3a368b269ae7330
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Mon Feb 26 20:27:08 2024 +0000
+
+    implemented fucntion verifyCheksum with a helper funciton calculateChecksum
+
+commit 25c288158b975201b3ee1da210b589414f22eba0
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Mon Feb 26 19:48:56 2024 +0000
+
+    refactored function isReognisedcode to reduce the time complexity while validating the  NAND type from O(n) to O(logn)
+
+commit fbe7a03eca4c5493acefb6c18de89198c506d7c5
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Sun Feb 25 19:57:14 2024 +0000
+
+    changed the paramerter name for function dataEntryToWaypoint from d to dataEntry
+
+commit 812436c7b66b74f922fbad8017ad4f10a5cbdc0b
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Sun Feb 25 19:54:41 2024 +0000
+
+    Removed unused variables in function dataEntryToWaypoint
+
+commit 87b6829756b0e0c5f5ffa8a6bdffc739a49880f2
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Sun Feb 25 19:53:08 2024 +0000
+
+    replaced the current DMS algorithm with  function parseDMS to check if degrees, minute and seconds are within the longitude of the DAVE nand type and coverts the longitude to decimal degrees
+
+commit 12f77aeaf3ad4213d101a83c5a49c9da76ffb8c9
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Sun Feb 25 19:49:33 2024 +0000
+
+    replaced the current DMS algorithm with  function parseDMS to check if degrees, minute and seconds are within the latitude of the DAVE nand type and coverts the latitude to decimal degrees
+
+commit 697339b4a60ede4d1d6bc69cb63f2fb701c6715c
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Sun Feb 25 19:45:49 2024 +0000
+
+    replaced the current DMS algorithm with  function parseDMS to check if degrees, minute and seconds are within the longitude of the ALIS nand type and coverts the longitude to decimal degrees
+
+commit ddadfb8b918be87bab5691d32dee3ca14b9d1862
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Sun Feb 25 19:42:14 2024 +0000
+
+    Implemented function parseDMS to check if degrees, minute and seconds are within the latitude of the ALIS nand type and coverts the latitude to decimal degrees
+
+commit 24ecb5bb0af13b3a9e03571b5ab3194d674ceb4e
+Author: Shuaib Ahmed-Danfulani <T0401193@my.ntu.ac.uk>
+Date:   Sat Feb 24 19:55:02 2024 +0000
+
+    made some variable names in dataEntryToWaypoint more indicative
+
+commit 382f2c2acc6b90f0c50d04f90b05dcb3eb041e72
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Sat Feb 24 09:37:16 2024 +0000
+
+    Implemented function parseDataEntry and implemented helper function splitByArgument(This function takes two parameters field and argument then splits the field by the arguement)
+
+commit d24ac68b22e009e28b9a4902b237884495ed6edf
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Fri Feb 23 19:17:15 2024 +0000
+
+    Implemented function isRecognisedCode
+
+commit d28bf47d6b8197ea82d898587e0c183fcf0c4c25
+Author: Shuaib Ahmed-Danfulani <T0401193@my.ntu.ac.uk>
+Date:   Wed Feb 21 14:20:01 2024 +0000
+
+    refactored "degrees", "minutes", and "seconds" variables to indicate
+    which are strings and which are doubles
+
+commit 80d9f1228ec6b5d354d82a1b49572b4276bf4ce0
+Author: Shuaib Ahmed-Danfulani <T0401193@my.ntu.ac.uk>
+Date:   Wed Feb 21 12:06:33 2024 +0000
+
+    Made some variable names more indicative
+
+commit e9feafbfe92f2d9b3410533dcd5146204c9a8c5e
+Author: Shuaib Ahmed-Danfulani <T0401193@my.ntu.ac.uk>
+Date:   Wed Feb 21 11:24:53 2024 +0000
+
+    Removed unnecessary comments
+
+commit 866fdb23c820773f3434f9fe78585fa3bcfe9d16
+Author: Shuaib Ahmed-Danfulani <T0401193@my.ntu.ac.uk>
+Date:   Wed Feb 21 11:21:35 2024 +0000
+
+    Changed varaible name "nandType" to "dataEntry" to improve clarity
+
+commit 7ec8d21040a6d8a9ae18b3619f4902282b58cd00
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Tue Feb 20 21:48:05 2024 +0000
+
+    Introduced Function isCharacternotInString to check if a character is in a position
+
+commit 86d30c705fb6b942923ca1937ec82701e289d373
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Tue Feb 20 21:39:05 2024 +0000
+
+    Introduced Function isValidCharacter to check if the the values between the first and last pipe are valid
+
+commit eace4255396ff9ff9778b64f40c414bf4c06e168
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Tue Feb 20 21:30:32 2024 +0000
+
+    Optimised hadValidCharacters function to use the memory address of nandType rather than making a copy when function called
+
+commit 92cda15960aa01e8f0449a5678a3e1862fc171d9
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Tue Feb 20 21:19:20 2024 +0000
+
+    Called function hasValidCharacter to check if the check sum characters are valid numbers
+
+commit ddf67b842b455ed74bcc2915d0c53d6e453a60f5
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Tue Feb 20 21:11:22 2024 +0000
+
+    Used more Descriptive variable names for the function call
+
+commit 9d2cf7196dcd21d9b8cd1c9b611a2a2cc7f56107
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Tue Feb 20 21:06:28 2024 +0000
+
+    Used function hasValidCharacters to check if the nand type are all capital letters
+
+commit b51ba5e7d82dfec8ec98f7e47d18b9f749e0936f
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Tue Feb 20 21:02:11 2024 +0000
+
+    Wrote a function hasValidCharacters to check if characters within a range are valid
+
+commit ef3bdfedd9e5e55fc21585a42252c943eaf43f1c
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Thu Feb 15 18:57:07 2024 +0000
+
+    Introduced a minimum string size constant
+
+commit 44d123fd17c0d594ba0fbc5233a6529dd5bf4e22
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Thu Feb 15 16:52:36 2024 +0000
+
+    Made the parsed value of hasFormOfNANDdataEntry function  more descriptive
+
+commit 3008001a5af403bc26def792d0a3e1185b62b913
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Thu Feb 15 16:39:13 2024 +0000
+
+    Added a for loop to compress the NAND type bounds check and reduced the string formating check
+
+commit b6e3dc09b60da42a5cdccf05e307076bd5b226a3
+Author: Mofola <N1147967@my.ntu.ac.uk>
+Date:   Thu Feb 15 09:05:56 2024 +0000
+
+    Removed Global namespace and introduced explicit namespace resolution
+
+commit b9f59f8ed7406d5ce0a1f521feba992f799aa26a
+Author: Shuaib Ahmed-Danfulani <T0401193@my.ntu.ac.uk>
+Date:   Thu Feb 15 08:46:29 2024 +0000
+
+    added a comment
+
+commit d36a402f4ca55a5d18e0b33d637903e44ba29fea
+Author: T0401193 <shuaib.ahmed-danfulani2022@my.ntu.ac.uk>
+Date:   Wed Jan 31 21:27:04 2024 +0000
+
+    Create README.md
+
+commit ffb3e3c8e4ad15b22d6a1e09af762d3d79198713
+Author: Neil Sculthorpe <neil.sculthorpe@ntu.ac.uk>
+Date:   Tue Jan 30 19:16:45 2024 +0000
+
+    Correct typo in NAND-Parser.pro
+
+commit 9d59333648965c4a31c370603cfbaa8636d5b891
+Author: Neil Sculthorpe <neil.sculthorpe@ntu.ac.uk>
+Date:   Wed Jan 24 18:14:57 2024 +0000
+
+    Added automated test program for NAND Parser
+
+commit 3e3ec9175e4b432f09ba7728decb313e4b8dbcdc
+Author: Neil Sculthorpe <neil.sculthorpe@ntu.ac.uk>
+Date:   Wed Jan 24 18:14:29 2024 +0000
+
+    Implemented hasFormOfNANDdataEntry() and dataEntryToWaypoint() functions.  Code quality could do with improvement.
+
+commit 4e7127683f49b1bb2e4fdb9c2e4168f36a2d504e
+Author: Neil Sculthorpe <neil.sculthorpe@ntu.ac.uk>
+Date:   Wed Jan 24 18:13:07 2024 +0000
+
+    API for NAND Parser
+
+commit 087c22bb126770a3947d21abefcff8a901fcffee
+Author: Neil Sculthorpe <neil.sculthorpe@ntu.ac.uk>
+Date:   Wed Jan 24 18:12:09 2024 +0000
+
+    Provided some C++ GPS co-ordinates functionality
+
+commit ad4d7cb2c5f68c4d629765dde3202216b84a5d1e
+Author: Neil Sculthorpe <neil.sculthorpe@ntu.ac.uk>
+Date:   Wed Jan 24 18:11:14 2024 +0000
+
+    Created .gitignore

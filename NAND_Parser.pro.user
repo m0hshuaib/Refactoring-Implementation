@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorProject>
+<!-- Written by QtCreator 6.0.2, 2024-04-18T18:30:31. -->
+<qtcreator>
+ <data>
+  <variable>EnvironmentId</variable>
+  <value type="QByteArray">{39b84072-638e-4ade-bc97-148118e0e69f}</value>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.ActiveTarget</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.EditorSettings</variable>
+  <valuemap type="QVariantMap">
+   <value type="bool" key="EditorConfiguration.AutoIndent">true</value>
+   <value type="bool" key="EditorConfiguration.AutoSpacesForTabs">false</value>
+   <value type="bool" key="EditorConfiguration.CamelCaseNavigation">true</value>
+   <valuemap type="QVariantMap" key="EditorConfiguration.CodeStyle.0">
+    <value type="QString" key="language">Cpp</value>
+    <valuemap type="QVariantMap" key="value">
+     <value type="QByteArray" key="CurrentPreferences">CppGlobal</value>
+    </valuemap>
+   </valuemap>
+   <valuemap type="QVariantMap" key="EditorConfiguration.CodeStyle.1">
+    <value type="QString" key="language">QmlJS</value>
+    <valuemap type="QVariantMap" key="value">
+     <value type="QByteArray" key="CurrentPreferences">QmlJSGlobal</value>
+    </valuemap>
+   </valuemap>
+   <value type="int" key="EditorConfiguration.CodeStyle.Count">2</value>
+   <value type="QByteArray" key="EditorConfiguration.Codec">UTF-8</value>
+   <value type="bool" key="EditorConfiguration.ConstrainTooltips">false</value>
+   <value type="int" key="EditorConfiguration.IndentSize">4</value>
+   <value type="bool" key="EditorConfiguration.KeyboardTooltips">false</value>
+   <value type="int" key="EditorConfiguration.MarginColumn">80</value>
+   <value type="bool" key="EditorConfiguration.MouseHiding">true</value>
+   <value type="bool" key="EditorConfiguration.MouseNavigation">true</value>
+   <value type="int" key="EditorConfiguration.PaddingMode">1</value>
+   <value type="bool" key="EditorConfiguration.PreferSingleLineComments">false</value>
+   <value type="bool" key="EditorConfiguration.ScrollWheelZooming">true</value>
+   <value type="bool" key="EditorConfiguration.ShowMargin">false</value>
+   <value type="int" key="EditorConfiguration.SmartBackspaceBehavior">0</value>
+   <value type="bool" key="EditorConfiguration.SmartSelectionChanging">true</value>
+   <value type="bool" key="EditorConfiguration.SpacesForTabs">true</value>
+   <value type="int" key="EditorConfiguration.TabKeyBehavior">0</value>
+   <value type="int" key="EditorConfiguration.TabSize">8</value>
+   <value type="bool" key="EditorConfiguration.UseGlobal">true</value>
+   <value type="bool" key="EditorConfiguration.UseIndenter">false</value>
+   <value type="int" key="EditorConfiguration.Utf8BomBehavior">1</value>
+   <value type="bool" key="EditorConfiguration.addFinalNewLine">true</value>
+   <value type="bool" key="EditorConfiguration.cleanIndentation">true</value>
+   <value type="bool" key="EditorConfiguration.cleanWhitespace">true</value>
+   <value type="QString" key="EditorConfiguration.ignoreFileTypes">*.md, *.MD, Makefile</value>
+   <value type="bool" key="EditorConfiguration.inEntireDocument">false</value>
+   <value type="bool" key="EditorConfiguration.skipTrailingWhitespace">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.PluginSettings</variable>
+  <valuemap type="QVariantMap">
+   <valuemap type="QVariantMap" key="AutoTest.ActiveFrameworks">
+    <value type="bool" key="AutoTest.Framework.Boost">true</value>
+    <value type="bool" key="AutoTest.Framework.CTest">false</value>
+    <value type="bool" key="AutoTest.Framework.Catch">true</value>
+    <value type="bool" key="AutoTest.Framework.GTest">true</value>
+    <value type="bool" key="AutoTest.Framework.QtQuickTest">true</value>
+    <value type="bool" key="AutoTest.Framework.QtTest">true</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="AutoTest.CheckStates">
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:ALIS_NW">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:ALIS_SE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:DAVE_NE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:DAVE_SW">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:DataEntryToWaypoint">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidAltitudeText">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidBearingCase">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidBearingWithValidPrefix">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidDMSText_missingDegreesSymbol_ALIS_lat">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidDMSText_missingDegreesSymbol_ALIS_lon">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidDMSText_missingDegreesSymbol_DAVE_lat">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidDMSText_missingDegreesSymbol_DAVE_lon">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidDMSText_missingMinutesSymbol_ALIS_lat">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidDMSText_missingMinutesSymbol_ALIS_lon">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidDMSText_missingMinutesSymbol_DAVE_lat">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidDMSText_missingMinutesSymbol_DAVE_lon">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidDMSText_missingSecondsSymbol_ALIS_lat">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidDMSText_missingSecondsSymbol_ALIS_lon">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidDMSText_missingSecondsSymbol_DAVE_lat">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidDMSText_missingSecondsSymbol_DAVE_lon">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidDMSText_negative_ALIS_lat">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidDMSText_negative_ALIS_lon">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidDMSText_negative_DAVE_lat">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidDMSText_negative_DAVE_lon">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidDMSText_not_numeric_ALIS_lat">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidDMSText_not_numeric_ALIS_lon">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidDMSText_not_numeric_DAVE_lat">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidDMSText_not_numeric_DAVE_lon">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidLatitudeText">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidLonBearingSymbol_ALIS_lat">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidLonBearingSymbol_ALIS_lon">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidLonBearingSymbol_DAVE_lat">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidLonBearingSymbol_DAVE_lon">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:InvalidLongitudeText">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:Longitude_above_90">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:NEIL">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:NUNO">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:NegativeAltitude">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-dataEntryToWaypoint-tests.cpp:ZeroValues">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-hasExpectedNumberOfFields-tests.cpp:ExpectedFieldsALIS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-hasExpectedNumberOfFields-tests.cpp:ExpectedFieldsDAVE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-hasExpectedNumberOfFields-tests.cpp:ExpectedFieldsNEIL">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-hasExpectedNumberOfFields-tests.cpp:ExpectedFieldsNUNO">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-hasExpectedNumberOfFields-tests.cpp:ExtraFields">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-hasExpectedNumberOfFields-tests.cpp:HasExpectedNumberOfFields">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-hasExpectedNumberOfFields-tests.cpp:MissingFields">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-hasExpectedNumberOfFields-tests.cpp:ZeroFields">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-hasFormOfNANDdataEntry-tests.cpp:HasFormOfNANDdataEntry">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-hasFormOfNANDdataEntry-tests.cpp:IllformedFormatCode">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-hasFormOfNANDdataEntry-tests.cpp:InvalidChecksumLength">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-hasFormOfNANDdataEntry-tests.cpp:InvalidReservedCharInField">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-hasFormOfNANDdataEntry-tests.cpp:InvalidStartSymbol">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-hasFormOfNANDdataEntry-tests.cpp:MissingChecksum">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-hasFormOfNANDdataEntry-tests.cpp:MissingEndSymbol">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-hasFormOfNANDdataEntry-tests.cpp:MissingFormatCode">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-hasFormOfNANDdataEntry-tests.cpp:MissingStartSymbol">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-hasFormOfNANDdataEntry-tests.cpp:MissingSuffix">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-hasFormOfNANDdataEntry-tests.cpp:WellFormedChecksumEdgeDigits">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-hasFormOfNANDdataEntry-tests.cpp:WellFormedCodeEdgeLetters">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-hasFormOfNANDdataEntry-tests.cpp:WellFormedEmptyField">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-hasFormOfNANDdataEntry-tests.cpp:WellFormedManyFields">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-hasFormOfNANDdataEntry-tests.cpp:WellFormedOneField">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-hasFormOfNANDdataEntry-tests.cpp:WellFormedTwoFields">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-hasFormOfNANDdataEntry-tests.cpp:WellFormedTypicalDataEntries">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-isRecognisedCode-tests.cpp:ALIS_IsRecognisedCode">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-isRecognisedCode-tests.cpp:CodesVeryLong">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-isRecognisedCode-tests.cpp:CodesWrongLength">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-isRecognisedCode-tests.cpp:DAVE_IsRecognisedCode">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-isRecognisedCode-tests.cpp:IsRecognisedCode">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-isRecognisedCode-tests.cpp:NEIL_IsRecognisedCode">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-isRecognisedCode-tests.cpp:NUNO_IsRecognisedCode">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-isRecognisedCode-tests.cpp:UncapitalisedCodes">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-isRecognisedCode-tests.cpp:UnrecognisedCodes">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-parseDataEntry-tests.cpp:ALIS">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-parseDataEntry-tests.cpp:DAVE">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-parseDataEntry-tests.cpp:ISMA_unrecognisedFormat">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-parseDataEntry-tests.cpp:JustOneField">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-parseDataEntry-tests.cpp:NEIL">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-parseDataEntry-tests.cpp:NUNO">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-parseDataEntry-tests.cpp:ParseDataEntry">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-parseDataEntry-tests.cpp:SomeEmptyFields">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-processDataLog-tests.cpp:EmptyLog">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-processDataLog-tests.cpp:ExtraFields">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-processDataLog-tests.cpp:FourValidEntries">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-processDataLog-tests.cpp:IgnoringWhiteSpace">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-processDataLog-tests.cpp:IllFormedNANDdataEntries">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-processDataLog-tests.cpp:IllformedStructureButValidChecksum">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-processDataLog-tests.cpp:InvalidChecksums">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-processDataLog-tests.cpp:InvalidFields">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-processDataLog-tests.cpp:MissingFields">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-processDataLog-tests.cpp:OneValidEntry">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-processDataLog-tests.cpp:ProcessDataLog">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-processDataLog-tests.cpp:UnrecognisedNANDformats">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-verifyChecksum-tests.cpp:EmptyData">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-verifyChecksum-tests.cpp:SingleCharacterData">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-verifyChecksum-tests.cpp:SingleCharacterDataCorrupt">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-verifyChecksum-tests.cpp:TwoCharacterData">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-verifyChecksum-tests.cpp:TypicalData">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-verifyChecksum-tests.cpp:TypicalDataCorrupt">Checked</value>
+    <value type="Qt::CheckState" key="1@/home/shuaib/Repos/coursework/tests/nand/nand-parser-verifyChecksum-tests.cpp:VerifyChecksum">Checked</value>
+   </valuemap>
+   <value type="int" key="AutoTest.RunAfterBuild">0</value>
+   <value type="bool" key="AutoTest.UseGlobal">true</value>
+   <valuelist type="QVariantList" key="ClangCodeModel.CustomCommandLineKey"/>
+   <value type="bool" key="ClangCodeModel.UseGlobalConfig">true</value>
+   <value type="QString" key="ClangCodeModel.WarningConfigId">Builtin.BuildSystem</value>
+   <valuemap type="QVariantMap" key="ClangTools">
+    <value type="bool" key="ClangTools.AnalyzeOpenFiles">true</value>
+    <value type="bool" key="ClangTools.BuildBeforeAnalysis">true</value>
+    <value type="QString" key="ClangTools.DiagnosticConfig">Builtin.DefaultTidyAndClazy</value>
+    <value type="int" key="ClangTools.ParallelJobs">2</value>
+    <valuelist type="QVariantList" key="ClangTools.SelectedDirs"/>
+    <valuelist type="QVariantList" key="ClangTools.SelectedFiles"/>
+    <valuelist type="QVariantList" key="ClangTools.SuppressedDiagnostics"/>
+    <value type="bool" key="ClangTools.UseGlobalSettings">true</value>
+   </valuemap>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Target.0</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="DeviceType">Desktop</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Desktop</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Desktop</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">{a44e01f0-90f1-4613-84b8-1068ed1b5b78}</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">0</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">0</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">0</value>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.0">
+    <value type="int" key="EnableQmlDebugging">0</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/shuaib/Repos/build-NAND_Parser-Desktop-Debug</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/home/shuaib/Repos/build-NAND_Parser-Desktop-Debug</value>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">QtProjectManager.QMakeBuildStep</value>
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.QMakeForced">false</value>
+      <valuelist type="QVariantList" key="QtProjectManager.QMakeBuildStep.SelectedAbis"/>
+     </valuemap>
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.1">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.MakeStep</value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">2</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Build</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Build</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Build</value>
+    </valuemap>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.1">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.MakeStep</value>
+      <value type="QString" key="Qt4ProjectManager.MakeStep.MakeArguments">clean</value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">1</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Clean</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Clean</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Clean</value>
+    </valuemap>
+    <value type="int" key="ProjectExplorer.BuildConfiguration.BuildStepListCount">2</value>
+    <value type="bool" key="ProjectExplorer.BuildConfiguration.ClearSystemEnvironment">false</value>
+    <valuelist type="QVariantList" key="ProjectExplorer.BuildConfiguration.CustomParsers"/>
+    <value type="bool" key="ProjectExplorer.BuildConfiguration.ParseStandardOutput">false</value>
+    <valuelist type="QVariantList" key="ProjectExplorer.BuildConfiguration.UserEnvironmentChanges"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Debug</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4BuildConfiguration</value>
+    <value type="int" key="Qt4ProjectManager.Qt4BuildConfiguration.BuildConfiguration">2</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.1">
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/shuaib/Repos/build-NAND_Parser-Desktop-Release</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/home/shuaib/Repos/build-NAND_Parser-Desktop-Release</value>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">QtProjectManager.QMakeBuildStep</value>
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.QMakeForced">false</value>
+      <valuelist type="QVariantList" key="QtProjectManager.QMakeBuildStep.SelectedAbis"/>
+     </valuemap>
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.1">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.MakeStep</value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">2</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Build</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Build</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Build</value>
+    </valuemap>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.1">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.MakeStep</value>
+      <value type="QString" key="Qt4ProjectManager.MakeStep.MakeArguments">clean</value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">1</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Clean</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Clean</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Clean</value>
+    </valuemap>
+    <value type="int" key="ProjectExplorer.BuildConfiguration.BuildStepListCount">2</value>
+    <value type="bool" key="ProjectExplorer.BuildConfiguration.ClearSystemEnvironment">false</value>
+    <valuelist type="QVariantList" key="ProjectExplorer.BuildConfiguration.CustomParsers"/>
+    <value type="bool" key="ProjectExplorer.BuildConfiguration.ParseStandardOutput">false</value>
+    <valuelist type="QVariantList" key="ProjectExplorer.BuildConfiguration.UserEnvironmentChanges"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Release</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4BuildConfiguration</value>
+    <value type="int" key="Qt4ProjectManager.Qt4BuildConfiguration.BuildConfiguration">0</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.2">
+    <value type="int" key="EnableQmlDebugging">0</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/shuaib/Repos/build-NAND_Parser-Desktop-Profile</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/home/shuaib/Repos/build-NAND_Parser-Desktop-Profile</value>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">QtProjectManager.QMakeBuildStep</value>
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.QMakeForced">false</value>
+      <valuelist type="QVariantList" key="QtProjectManager.QMakeBuildStep.SelectedAbis"/>
+     </valuemap>
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.1">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.MakeStep</value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">2</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Build</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Build</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Build</value>
+    </valuemap>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.1">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.MakeStep</value>
+      <value type="QString" key="Qt4ProjectManager.MakeStep.MakeArguments">clean</value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">1</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Clean</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Clean</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Clean</value>
+    </valuemap>
+    <value type="int" key="ProjectExplorer.BuildConfiguration.BuildStepListCount">2</value>
+    <value type="bool" key="ProjectExplorer.BuildConfiguration.ClearSystemEnvironment">false</value>
+    <valuelist type="QVariantList" key="ProjectExplorer.BuildConfiguration.CustomParsers"/>
+    <value type="bool" key="ProjectExplorer.BuildConfiguration.ParseStandardOutput">false</value>
+    <valuelist type="QVariantList" key="ProjectExplorer.BuildConfiguration.UserEnvironmentChanges"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Profile</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4BuildConfiguration</value>
+    <value type="int" key="Qt4ProjectManager.Qt4BuildConfiguration.BuildConfiguration">0</value>
+    <value type="int" key="SeparateDebugInfo">0</value>
+   </valuemap>
+   <value type="int" key="ProjectExplorer.Target.BuildConfigurationCount">3</value>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.DeployConfiguration.0">
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">0</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Deploy</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Deploy</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Deploy</value>
+    </valuemap>
+    <value type="int" key="ProjectExplorer.BuildConfiguration.BuildStepListCount">1</value>
+    <valuemap type="QVariantMap" key="ProjectExplorer.DeployConfiguration.CustomData"/>
+    <value type="bool" key="ProjectExplorer.DeployConfiguration.CustomDataEnabled">false</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.DefaultDeployConfiguration</value>
+   </valuemap>
+   <value type="int" key="ProjectExplorer.Target.DeployConfigurationCount">1</value>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.0">
+    <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.QmlProfiler.Settings.UseGlobalSettings">true</value>
+    <value type="bool" key="Analyzer.Valgrind.Settings.UseGlobalSettings">true</value>
+    <valuelist type="QVariantList" key="CustomOutputParsers"/>
+    <value type="int" key="PE.EnvironmentAspect.Base">2</value>
+    <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/shuaib/Repos/coursework/NAND_Parser.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/shuaib/Repos/coursework/NAND_Parser.pro</value>
+    <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
+    <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/shuaib/Repos/coursework/bin/</value>
+   </valuemap>
+   <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.TargetCount</variable>
+  <value type="int">1</value>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Updater.FileVersion</variable>
+  <value type="int">22</value>
+ </data>
+ <data>
+  <variable>Version</variable>
+  <value type="int">22</value>
+ </data>
+</qtcreator>
